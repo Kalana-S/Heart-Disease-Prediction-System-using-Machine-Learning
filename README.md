@@ -71,8 +71,8 @@ This project uses a heart disease dataset with features like age, cholesterol, r
 
 ## 📸 Screenshots
 Add UI screenshots here after running the app:
-- `static/home.png`
-- `static/prediction_result.png`
+![image](./static/home.png)
+![image](./static/prediction_result.png)
 
 ## 🤝 Contribution
 Pull requests are welcome! For major changes, please open an issue first to discuss what you'd like to improve.
