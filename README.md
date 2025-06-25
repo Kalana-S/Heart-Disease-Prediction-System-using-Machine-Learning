@@ -70,7 +70,6 @@ This is a machine learning-powered web application developed with Python, XGBoos
 This project uses a heart disease dataset with features like age, cholesterol, resting ECG, etc. Make sure the file `heart_train.csv` is placed in the project root folder if retraining is required.
 
 ## 📸 Screenshots
-Add UI screenshots here after running the app:
 ![image](./static/home.png)
 ![image](./static/prediction_result.png)
 
