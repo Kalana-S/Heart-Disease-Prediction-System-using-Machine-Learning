@@ -1,0 +1,1 @@
+{"columns": ["Age", "RestingBP", "Cholesterol", "FastingBS", "MaxHR", "Oldpeak", "Sex_M", "ChestPainType_ATA", "ChestPainType_NAP", "ChestPainType_TA", "RestingECG_Normal", "RestingECG_ST", "ExerciseAngina_Y", "ST_Slope_Flat", "ST_Slope_Up"], "numerical_columns": ["Age", "RestingBP", "Cholesterol", "FastingBS", "MaxHR", "Oldpeak"]}

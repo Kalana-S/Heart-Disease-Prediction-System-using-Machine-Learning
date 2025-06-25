@@ -1,0 +1,30 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*.so
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Virtual environment folders
+.env
+.venv/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# OS Files
+.DS_Store
+Thumbs.db
+
+# Log files
+*.log
+
+# Cache and test files
+*.cache
+*.tmp
+
+# VS Code project files
+.vscode/
+

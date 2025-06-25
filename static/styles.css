@@ -1,0 +1,97 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 40px;
+    background-color: #232323;
+}
+h1 {
+    color: #0af7ff;
+    text-align: center;
+    margin-bottom: 30px;
+    text-shadow: 0 0 10px #0af7ff;
+}
+form {
+    background: rgb(52, 52, 52);
+    padding: 20px;
+    border: solid 1px #0af7ff;
+    border-radius: 10px;
+    box-shadow: 0 0 10px #0af7ff;
+    max-width: 60%;
+    color: #ffffff;
+    margin: auto;
+}
+label {
+    display: block;
+    margin-top: 30px;
+    margin-left: 5%;
+    margin-bottom: 8px;
+    font-weight: bold;
+}
+input[type="number"] {
+    width: 90%;
+    margin-left: 5%;
+    margin-right: 5%;
+    padding: 8px;
+    border: solid 1px #0af7ff;
+    border-radius: 5px;
+    background-color: rgb(70, 69, 69);
+    color: #0af7ff;
+}
+input[type="number"]:hover{
+    color: #0af7ff;
+    transform: scale(1.02);
+    border: 1px solid #0af7ff;
+}
+select{
+    width: 92%;
+    margin-left: 5%;
+    padding: 8px;
+    border: solid 1px #0af7ff;
+    border-radius: 5px;
+    background-color: rgb(70, 69, 69);
+    color: #0af7ff;    
+}
+select:hover{
+    color: #0af7ff;
+    transform: scale(1.02);
+    border: 1px solid #0af7ff;
+}
+input[type="submit"] {
+    width: 50%;
+    margin-top: 40px;
+    margin-left: 25%;
+    margin-right: 25%;
+    margin-bottom: 20px;
+    padding: 10px;
+    border-radius: 8px;
+    background-color: #232323;
+    color: #0af7ff;
+    border: 1px solid #0af7ff;
+    cursor: pointer;
+    font-weight: bold;
+    box-shadow: 0 0 10px #0af7ff;
+}
+input[type="submit"]:hover {
+    background-color: #0af7ff;
+    color: #232323;
+    border: 1px solid #232323;
+}
+p{
+    color: #ffffff;
+    margin-bottom: 40px;
+}
+a{
+    border-radius: 8px;
+    background-color: #232323;
+    color: #0af7ff;
+    border: 1px solid #0af7ff;
+    cursor: pointer;
+    font-weight: bold;
+    box-shadow: 0 0 10px #0af7ff;
+    padding: 10px;
+    text-decoration: none;
+}
+a:hover{
+    background-color: #0af7ff;
+    color: #232323;
+    border: 1px solid #232323;
+}
