@@ -1,6 +1,6 @@
 # ❤️ Heart Disease Prediction System using Machine Learning
 
-This is a machine learning-powered web application developed with Python, XGBoost, and Flask, designed to predict whether a person is likely to have heart disease based on clinical and diagnostic inputs.
+This is a machine learning-powered web application developed with **Python, XGBoost, and Flask**, designed to predict whether a person is likely to have heart disease based on clinical and diagnostic inputs.
 
 ## 🚀 Features
 - Predicts heart disease likelihood using real patient health indicators.
